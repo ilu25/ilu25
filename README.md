@@ -1,4 +1,4 @@
-### 안녕하세요 조세영입니다. 👋
+### Hi there 👋
 
 <!--
 **ilu25/ilu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
