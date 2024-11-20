@@ -1,16 +1,58 @@
-### Hi there 👋
+## About Me
+조세영 (CHO SEYOUNG)  
+✉️ lucia0725@naver.com
 
-<!--
-**ilu25/ilu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## Education
+- 숙명여자대학교 컴퓨터과학전공 (2020.03 ~ 2025.02)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## Project
+|이름|소개|기간|역할|링크|  
+|---|-----|---|---|--|
+|Clothes:er|위치 기반 의류 공유 플랫폼|2024.04 ~ 2024.11|Backend|[깃허브](https://github.com/Clothes-er/Clothes-er_BE) / [서비스](https://www.clotheser.co.kr/) / [관리자 페이지](https://admin.clotheser.co.kr/)|
+|스노로즈|숙명인을 위한 커뮤니티|2024.02 ~ 현재|Backend|[깃허브](https://github.com/snorose) / [서비스](https://snorose.com/)|
+|Carea|자립준비청년을 위한 커뮤니티 및 도움 공유 앱|2024.01 ~ 2024.02|Backend|[깃허브](https://github.com/Clothes-er/Clothes-er_BE)|
+|Popify|팝업스토어 정보 제공 서비스|2023.07 ~ 2023.08|Backend|[깃허브](https://github.com/OFFICIAL-POPIFY/server)|
+|Yeoun|전국 여행 커뮤니티|2023.06 ~ 2023.10|Backend|[깃허브](https://github.com/YE0UN/yeoun-server)|
+
+<br>
+
+## Experience
+- 스노로즈 개발팀 운영진 (2023.04 ~ 현재)
+- GDSC 4기 멤버 (2023.10 ~ 2024.05)
+- 건국대학교 산학연 ESG 프로그램 (2023.05 ~ 2023.09)
+- UMC 2기 Server (2022.03 ~ 2022.08)
+- FORZA 24-25기 멘티/멘토, 임원진 총무 (2020.04 ~ 2022.07)
+
+<br>
+
+## Awards
+- 신한금융그룹 빅데이터 해커톤 제1회 장려상 (2022.09) 
+
+<br>
+
+## Tech Stack
+<div style="margin: ; text-align: left;" "text-align: left;">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+</div>
+
+<br><br>
+
+<a href="https://github.com/ilu25"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilu25&layout=compact" /></a>
+<a href="https://github.com/ilu25"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ilu25&show_icons=true&include_all_commits=true" alt="ilu25's github stats" /></a>
