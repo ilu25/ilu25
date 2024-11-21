@@ -10,13 +10,13 @@
 <br>
 
 ## Project
-|이름|소개|기간|역할|링크|  
+|이름|소개|기간|주요 기술|링크|  
 |---|-----|---|---|--|
-|Clothes:er|위치 기반 의류 공유 플랫폼|2024.04 ~ 2024.11|Backend|[깃허브](https://github.com/Clothes-er/Clothes-er_BE) / [서비스](https://www.clotheser.co.kr/)|
-|스노로즈|숙명인을 위한 커뮤니티|2024.02 ~ .|Backend|[깃허브](https://github.com/snorose) / [서비스](https://snorose.com/)|
-|Carea|자립준비청년을 위한 커뮤니티 및 도움 공유 앱|2024.01 ~ 2024.02|Backend|[깃허브](https://github.com/Clothes-er/Clothes-er_BE)|
-|Popify|팝업스토어 정보 제공 서비스|2023.07 ~ 2023.08|Backend|[깃허브](https://github.com/OFFICIAL-POPIFY/server)|
-|Yeoun|전국 여행 커뮤니티|2023.06 ~ 2023.10|Backend|[깃허브](https://github.com/YE0UN/yeoun-server)|
+|Clothes:er|위치 기반 의류 공유 플랫폼|2024.04 ~ 2024.11|Java, Spring, MySQL, AWS|[깃허브](https://github.com/Clothes-er/Clothes-er_BE) / [서비스](https://www.clotheser.co.kr/)|
+|스노로즈|숙명인을 위한 커뮤니티|2024.02 ~ .|Java, Spring, MySQL, AWS|[깃허브](https://github.com/snorose) / [서비스](https://snorose.com/)|
+|Carea|자립준비청년을 위한 커뮤니티 및 도움 공유 앱|2024.01 ~ 2024.02|Python, Django, MySQL, GCP|[깃허브](https://github.com/Clothes-er/Clothes-er_BE)|
+|Popify|팝업스토어 정보 제공 서비스|2023.07 ~ 2023.08|Node.js, Express, MongoDB, AWS|[깃허브](https://github.com/OFFICIAL-POPIFY/server)|
+|Yeoun|전국 여행 커뮤니티|2023.06 ~ 2023.10|Node.js, Express, MongoDB, GCP|[깃허브](https://github.com/YE0UN/yeoun-server)|
 
 <br>
 
