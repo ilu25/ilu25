@@ -10,13 +10,13 @@
 <br>
 
 ## Project
-|이름|소개|기간|주요 기술|링크|  
+|이름|소개|기간|주요 기술|깃허브|  
 |---|-----|---|---|--|
-|스노로즈|숙명인을 위한 커뮤니티|2024.02 ~ 현재|Java, Spring, MySQL, AWS|[깃허브](https://github.com/snorose) / [서비스](https://snorose.com/)|
-|Clothes:er|위치 기반 의류 공유 플랫폼|2024.04 ~ 2024.11|Java, Spring, MySQL, AWS|[깃허브](https://github.com/Clothes-er/Clothes-er_BE)|
-|Carea|자립준비청년을 위한 커뮤니티 및 도움 공유 앱|2024.01 ~ 2024.02|Python, Django, MySQL, GCP|[깃허브](https://github.com/Clothes-er/Clothes-er_BE)|
-|Popify|팝업스토어 정보 제공 서비스|2023.07 ~ 2023.08|Node.js, Express, MongoDB, AWS|[깃허브](https://github.com/OFFICIAL-POPIFY/server)|
-|Yeoun|전국 여행 커뮤니티|2023.06 ~ 2023.10|Node.js, Express, MongoDB, GCP|[깃허브](https://github.com/YE0UN/yeoun-server)|
+|[스노로즈](https://snorose.com/)|숙명인을 위한 커뮤니티|2024.02 ~ 현재|Java, Spring, MySQL, AWS|<a href="https://github.com/snorose"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|
+|Clothes:er|동네 기반 의류 공유 플랫폼 (공유 옷장)|2024.04 ~ 2024.11|Java, Spring, MySQL, AWS|<a href="https://github.com/Clothes-er/Clothes-er_BE"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|
+|Carea|자립준비청년을 위한 커뮤니티 및 도움 공유 앱|2024.01 ~ 2024.02|Python, Django, MySQL, GCP|<a href="https://github.com/Team-Carea/Carea-Server"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|
+|Popify|팝업스토어 정보 제공 서비스|2023.07 ~ 2023.08|Node.js, Express, MongoDB, AWS|<a href="https://github.com/OFFICIAL-POPIFY/server"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|
+|Yeoun|전국 여행 커뮤니티|2023.06 ~ 2023.10|Node.js, Express, MongoDB, GCP|<a href="https://github.com/YE0UN/yeoun-server"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|
 
 <br>
 
