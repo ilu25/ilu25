@@ -14,7 +14,7 @@
 |---|-----|---|---|--|
 |[스노로즈](https://snorose.com/)|숙명인을 위한 커뮤니티|2024.02 ~ 현재|Java, Spring, MySQL, AWS|<a href="https://github.com/snorose"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|
 |Clothes:er|동네 기반 의류 공유 플랫폼|2024.04 ~ 2024.11|Java, Spring, MySQL, AWS|<a href="https://github.com/Clothes-er/Clothes-er_BE"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|
-|Carea|자립준비청년 커뮤니티 및 도움 공유 앱|2024.01 ~ 2024.02|Python, Django, MySQL, GCP|<a href="https://github.com/Team-Carea/Carea-Server"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|
+|Carea|자립준비청년 커뮤니티&도움 공유 앱|2024.01 ~ 2024.02|Python, Django, MySQL, GCP|<a href="https://github.com/Team-Carea/Carea-Server"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|
 |Popify|팝업스토어 정보 제공 서비스|2023.07 ~ 2023.08|Node.js, Express, MongoDB, AWS|<a href="https://github.com/OFFICIAL-POPIFY/server"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|
 |Yeoun|전국 여행 커뮤니티|2023.06 ~ 2023.10|Node.js, Express, MongoDB, GCP|<a href="https://github.com/YE0UN/yeoun-server"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|
 
