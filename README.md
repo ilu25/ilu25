@@ -47,4 +47,4 @@
 <br>
 
 <a href="https://github.com/ilu25"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilu25&layout=compact" /></a>
-<a href="https://github.com/ilu25"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=ilu25&show_icons=true&include_all_commits=true&count_private=true" alt="ilu25's github stats" /></a>
+<a href="https://github.com/ilu25"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=ilu25&show_icons=true&count_private=true" alt="ilu25's github stats" /></a>
