@@ -4,11 +4,6 @@
 
 <br>
 
-## Education
-- 숙명여자대학교 컴퓨터과학전공 (2020.03 ~ 2025.02)
-
-<br>
-
 ## Project
 |이름|소개|기간|주요 기술|깃허브|  
 |---|-----|---|---|--|
@@ -21,9 +16,9 @@
 <br>
 
 ## Experience
-- 스노로즈 개발팀 운영진 (2023.04 ~ 현재)
+- 스노로즈 개발팀 백엔드 운영진 (2023.04 ~ 현재)
 - GDSC 4기 멤버 (2023.10 ~ 2024.05)
-- 건국대학교 산학연 ESG 프로그램 (2023.05 ~ 2023.09)
+- 건국대학교 산학연 연계 ESG 프로그램 (2023.05 ~ 2023.09)
 - UMC 2기 Server (2022.03 ~ 2022.08)
 - FORZA 24-25기 멘티/멘토, 임원진 총무 (2020.04 ~ 2022.02)
 
@@ -46,5 +41,5 @@
 
 <br>
 
-<a href="https://github.com/ilu25"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilu25&layout=compact" /></a>
-<a href="https://github.com/ilu25"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=ilu25&show_icons=true&count_private=true" alt="ilu25's github stats" /></a>
+<a href="https://github.com/ilu25"><img align="center" style="height:150px" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=ilu25&layout=compact" /></a>
+<a href="https://github.com/ilu25"><img align="center" style="height:150px" src="https://github-readme-stats-extended.vercel.app/api?username=ilu25&show_icons=true&include_all_commits=true" alt="ilu25's github stats" /></a>
